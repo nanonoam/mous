@@ -7,7 +7,7 @@ package frc.robot.mouse;
 /** Add your docs here. */
 public class MouseConstants {
     // Mouse DPI (adjust based on your mouse specifications)
-    public static final int MOUSE_DPI = 1721;
+    public static final int MOUSE_DPI = 1360;
 
     // Conversion constants
     public static final double INCHES_TO_METERS = 0.0254;
